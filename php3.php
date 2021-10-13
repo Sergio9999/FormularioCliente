@@ -32,4 +32,3 @@ echo $_POST[videojuegos]. "<br>";
 echo $_POST[deportes]. "<br>";
 echo $_POST[coches]. "<br>";
 ?>
-
