@@ -20,26 +20,16 @@ $comer= $_POST['comer'];
 
 
 
-echo 'Nombre: ' . $_POST[nombre];
-echo 'La clave es: '. $_POST[clave];
-echo 'La confirmacion de la clave es: '. $_POST[conficlave];
-echo 'Nombre: '. $_POST[nombre1];
-echo 'Clave: '. $_POST[apellido];
-echo 'Email: '. $_POST[email];
+echo 'Nombre: ' . $_POST[nombre] . "<br>";
+echo 'La clave es: '. $_POST[clave] . "<br>";
+echo 'La confirmacion de la clave es: '. $_POST[conficlave]. "<br>";
+echo 'Nombre: '. $_POST[nombre1]. "<br>";
+echo 'Clave: '. $_POST[apellido]. "<br>";
+echo 'Email: '. $_POST[email]. "<br>";
 
-echo $_POST[comer];
-echo $_POST[videojuegos];
-echo $_POST[deportes];
-echo $_POST[coches];
-
- 
- 
-
-
-/*foreach($_POST['checkbox'] as $seleccionado){
-    echo $seleccionado;
-}*/
-
-
-
+echo $_POST[comer]. "<br>";
+echo $_POST[videojuegos]. "<br>";
+echo $_POST[deportes]. "<br>";
+echo $_POST[coches]. "<br>";
 ?>
+
