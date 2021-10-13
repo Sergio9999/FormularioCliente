@@ -6,4 +6,4 @@
 
 ![Image text](https://github.com/Sergio9999/FormularioCliente/blob/main/f3.jpg)
 
-![Image text](https://github.com/Sergio9999/FormularioCliente/blob/main/f4.jpg)
+![Image text](https://github.com/Sergio9999/FormularioCliente/blob/main/f44.jpg)
